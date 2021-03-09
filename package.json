@@ -1,0 +1,19 @@
+{
+  "name": "repositoryformath",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artur24327/repositoryForMath.git"
+  },
+  "author": "Artur Dziubak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artur24327/repositoryForMath/issues"
+  },
+  "homepage": "https://github.com/Artur24327/repositoryForMath#readme"
+}
